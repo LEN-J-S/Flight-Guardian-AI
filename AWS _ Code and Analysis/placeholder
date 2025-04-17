@@ -1,2 +1,0 @@
-AWS was used for analyzing the Cockpit Voice Recorders[CVR] for transcription, diarization, and toxicity analysis.
-As the publicly availavble CVR's are mono audio with all 4 channels combined diarization of audio is important.
