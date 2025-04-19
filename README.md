@@ -10,9 +10,9 @@ Judged by:
 - Texas A&M Professors
 
 DATA USED: 
-US Airways flight 1549 (Miracle on the Hudson)
-NTSB investigation Report link: https://www.ntsb.gov/investigations/Pages/DCA09MA026.aspx
-FDR used from NTSB Docket: https://data.ntsb.gov/Docket/?NTSBNumber=DCA09MA026
+- US Airways flight 1549 (Miracle on the Hudson)
+- NTSB investigation Report link: https://www.ntsb.gov/investigations/Pages/DCA09MA026.aspx
+- FDR used from NTSB Docket: https://data.ntsb.gov/Docket/?NTSBNumber=DCA09MA026
 
 ATC Recording form YouTube [used as CVR]
 
