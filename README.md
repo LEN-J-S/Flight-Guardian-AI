@@ -1,6 +1,13 @@
-**US PATENT PENDING: 63/752,795**
-
+# Flight Guardian AI
 **TIDAL HACK (TAMU) - Major League Hackathon [MLH] 2025** **WINNER**
+
+***US PATENT PENDING: 63/752,795***
+
+Judged by: 
+- Google
+- AWS
+- Microsoft Azure
+- Texas A&M Professors
 
 DATA USED: 
 US Airways flight 1549 (Miracle on the Hudson)
@@ -12,7 +19,7 @@ ATC Recording form YouTube [used as CVR]
 ***All data used are publicly available on NTSB website***
 
 
-
+## Inspiration
 This project was inspired by the tragedy of Flight MH370, where many lives were lost, and the critical question of **"How?"** and **"Where?"** remain unanswered. This led me to dive into numerous air crash investigation documentaries and study several NTSB and FAA accident reports related to commercial aviation.
 
 While analyzing these reports, I noticed a major issue—flight data is typically examined only after an accident occurred, rather than in **real-time** to prevent or mitigate incidents. This realization sparked a breakthrough: leveraging AI to detect anomalies in both Flight Data and Cockpit Voice recordings as they happen.
