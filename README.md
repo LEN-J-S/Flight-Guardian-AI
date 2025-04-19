@@ -1,6 +1,6 @@
 **US PATENT PENDING: 63/752,795**
 
-**TIDAL HACK - Major League Hackathon [MLH] 2025** **WINNER**
+**TIDAL HACK (TAMU) - Major League Hackathon [MLH] 2025** **WINNER**
 
 DATA USED: 
 US Airways flight 1549 (Miracle on the Hudson)
