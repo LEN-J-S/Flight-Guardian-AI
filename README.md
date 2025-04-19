@@ -9,7 +9,7 @@ Judged by:
 - Microsoft Azure
 - Texas A&M Professors
 
-![A](Photos/1.png)
+![A](Photos/1.png) ![B](Photos/3.png)
 
 
 DATA USED: 
